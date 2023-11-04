@@ -26,10 +26,11 @@ Functionality:
 ## GUI
 
 
-![](.img/image_1.png) 
+![](./img/image_1.png) 
 
-![](image_2.png)
+![](./img/image_2.png)
 
+![](./img/image_3.png)
 ## Hot Keys
 
 > Ctrl+A - Select all \
