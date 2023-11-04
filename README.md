@@ -4,7 +4,3 @@
 
 > Author
 >> Lukashev Kirill
-
-## Description
-
-#TODO
