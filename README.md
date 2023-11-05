@@ -21,10 +21,22 @@ Functionality:
 
 ## Project build
 
-#T0DO
+#### *Сreate virtual environment*
+```console
+User@user-laptop:~$ pip install virtualenv
+User@user-laptop:~$ virtualenv myvenv
+User@user-laptop:~$ source myvenv\bin\activate
+```
+#### *Install requirements.txt*
+```console
+(myvenv)User@user-laptop:~$ pip install requirements.txt
+```
+#### *Run command*
+```console
+(myvenv)User@user-laptop:~$ python3 main.py
+```
 
 ## GUI
-
 
 ![](./img/image_1.png) 
 
